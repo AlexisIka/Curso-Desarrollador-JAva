@@ -1,5 +1,9 @@
 Clase 2 Ejercicio 3:
 3-Cree un repositorio remoto nuevo, sin ningún archivo y clonelo localmente.
 En este paso estoy modificando remotamente desde la pagina.
+<<<<<<< HEAD
 
 Modifico local a la vez que modifique remoto.
+=======
+Ahora lo modifico desde la pafina de nuevo, y antes de hacer commmit, tambien modifico desde la Pc.
+>>>>>>> b5b92538e02919d992cd80d19286877755e37c16
